@@ -150,6 +150,10 @@ nav.top-nav li:hover .pulldown-menu{
    color: white;
  }
 
+ .robotic_sim_desc{
+  font-size: large;
+ }
+
  /* ============== button formating ============== */
  
  button,
