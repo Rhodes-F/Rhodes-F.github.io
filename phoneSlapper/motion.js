@@ -24,7 +24,7 @@ Vue.component("widget-devicemovement", {
   <div class="widget widget-devicemovement" style="width:250px">
     <div>
       <button @click="tracker.startMotionTracking()">MOTION TRACKING</button>
-      <button @click="tracker.startGeoTracking()">GEO TRACKING</button>
+      // <button @click="tracker.startGeoTracking()">GEO TRACKING</button>
     </div>
     <div v-if="debug">
       <!-- All the complex visualization stuff -->
